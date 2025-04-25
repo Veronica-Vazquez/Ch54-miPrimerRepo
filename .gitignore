@@ -1,0 +1,13 @@
+
+# Ignorar archivos de MAC
+.DS_Store
+
+# Ignorar archivos de video
+*.avi
+*.mp4
+*.mkv
+*.mov
+
+# Ignorar carpetas
+# Si esta en subcarpetas debo de poner la ruta
+/carpeta_protegida 
